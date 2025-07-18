@@ -1,4 +1,4 @@
-# 🎓 VIT GPA Calculator (C++)
+# 🎓 VIT GPA Program (C++)
 
 A simple command-line based C++ program to calculate GPA and percentage for students using VIT grading system.
 
@@ -25,5 +25,5 @@ A simple command-line based C++ program to calculate GPA and percentage for stud
 1. *Clone the repo* (or copy the code)
 2. Compile the file using terminal:
    ```bash
-   g++ gpa_calculator.cpp -o gpa
+   g++ gpa_Program.cpp -o gpa
    ./gpa
